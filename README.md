@@ -1,6 +1,7 @@
-# ECE219
+# ECE219 Large Scale Data Minning Models & Algorithms 
 
 Project I : End To End Pipeline to Classify News Articles 
+Project II: Data Representation & Clustering 
 
 Scope
 The main objective for Project I is to build an end-to-end pipeline to classify samples of new articles.Below are the Machine Learning applications that were implemented to analyze the end-to-end pipeline. 
