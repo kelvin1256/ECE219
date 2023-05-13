@@ -1,6 +1,8 @@
 # ECE219 Large Scale Data Minning Models & Algorithms 
 
 Project I : End To End Pipeline to Classify News Articles 
+
+
 Project II: Data Representation & Clustering 
 
 Scope
